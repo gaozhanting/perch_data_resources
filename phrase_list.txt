@@ -371,7 +371,6 @@ and don't you forget it
 and everything
 and have done with it
 and his mother
-and how
 and I claim my five pounds
 and I don't mean maybe
 and I oop
@@ -1977,9 +1976,7 @@ do as I say and not as I do
 do away with
 do bears shit in the woods
 do fish swim
-do for
 do I know you
-do in
 do it to it
 do me a favour
 do me a lemon
@@ -1990,7 +1987,6 @@ do not want
 do off
 do over
 do someone proud
-do tell
 do unto others as you would have them do unto you
 do up
 do want
@@ -2584,7 +2580,6 @@ for a minute
 for a song
 for a while
 for Africa
-for all
 for all intended purposes
 for all intense and purposes
 for all intense purposes
@@ -2619,7 +2614,6 @@ for goodness's sake
 for grins
 for hellery
 for Ireland
-for it
 for keeps
 for kicks
 for lack of trying
@@ -2627,7 +2621,6 @@ for laughs
 for life
 for long
 for love nor money
-for me
 for me and not for thee
 for my money
 for my sins
@@ -3375,7 +3368,6 @@ how are you keeping
 how bist
 how can you sleep at night
 how did it go
-how do
 how do I get to
 how do I get to the airport
 how do I get to the bus station
@@ -4099,7 +4091,6 @@ in nothing flat
 in nubibus
 in of itself
 in office
-in one
 in one bite
 in one foul swoop
 in one piece
@@ -4800,7 +4791,6 @@ knock up
 know about
 know of
 know thyself
-know what
 know what I'm saying
 knowledge is power
 knuckle down
@@ -5260,11 +5250,9 @@ make a rabbit bite a bulldog
 make away
 make away with
 make down
-make for
 make it do or do without
 make it make sense
 make it up to
-make me
 make no mistake
 make of
 make off
@@ -6712,7 +6700,6 @@ out the ass
 out the blue
 out the wazoo
 out the window
-out there
 out to
 out with it
 outside the box
@@ -6741,7 +6728,6 @@ over the rainbow
 over the river and through the woods
 over the transom
 over the way
-over time
 over well
 ox is in the ditch
 pack away
@@ -7480,7 +7466,6 @@ set by
 set down
 set forth
 set off
-set on
 set out
 set out one's stall
 set to
@@ -10068,7 +10053,6 @@ you scratch my back and I'll scratch yours
 you shouldn't have
 you snooze you lose
 you the birthday
-you think
 you think what
 you want a cookie
 you welcome
