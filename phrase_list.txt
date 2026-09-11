@@ -442,7 +442,6 @@ are you taking any medications
 are your ears burning
 argle-bargle morble whoosh
 argue down
-ark at ee
 arm out
 around one's ears
 around Robin Hood's barn
@@ -828,7 +827,6 @@ barking dogs seldom bite
 Barkis is willin'
 Barkis is willing
 base on
-bash in
 bash out
 bat around
 bat away
@@ -3159,7 +3157,6 @@ hang up
 hang upon
 hang with
 happen by
-happily ever after
 happy as a pig in shit
 happy birthday
 happy Easter
@@ -3711,7 +3708,6 @@ I've burnt myself
 I've got news for you
 I've lost my keys
 I've never heard it called that before
-IBG YBG
 ice out
 ice up
 Ich dien
@@ -4243,7 +4239,6 @@ in special
 in spirit
 in spite of someone's teeth
 in splendor
-in splendour
 in splits
 in steam
 in step
@@ -7706,7 +7701,6 @@ so help me tatur
 so help my tater
 so help you God
 so is life
-so it goes
 so it seems
 so long as
 so mote it be
@@ -8584,7 +8578,6 @@ there she blows
 there we go
 there you are
 there you go
-there you have it
 there's a first time for everything
 there's a good time coming
 there's a grain of truth in every joke
