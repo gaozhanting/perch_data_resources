@@ -174,7 +174,6 @@ about one's ears
 about one's person
 about that life
 about time
-about to
 about turn
 above all else
 above and beyond
@@ -273,7 +272,6 @@ add up
 add up to
 added value
 address me
-address me 🐘
 adequately wet
 adhere to
 adopt out
@@ -438,7 +436,6 @@ all students take calculus
 all style and no substance
 all systems go
 all talk and no cider
-all that
 all that glisters is not gold
 all that glitters
 all that glitters is not gold
@@ -492,7 +489,6 @@ alright my lover
 also known as
 always a bridesmaid, never a bride
 always the bridesmaid, never the bride
-always was, always will be
 am I right
 amateur hour
 amber gambler
@@ -516,10 +512,8 @@ anaconda mortgage
 anatomically correct
 ancient history
 and a half
-and all
 and all the rest of it
 and another thing
-and be done with it
 and change
 and company
 and counting
@@ -528,7 +522,6 @@ and don't play one on TV
 and don't you forget it
 and everything
 and finally
-and have done with it
 and his mother
 and how
 and I claim my five pounds
@@ -545,7 +538,6 @@ and such
 and that's flat
 and the church says amen
 and the like
-and then some
 and whatnot
 and your little dog too
 angel's advocate
@@ -706,8 +698,6 @@ as if someone owns the place
 as if there is no tomorrow
 as if there were no tomorrow
 as if there's no tomorrow
-as in
-as is
 as it comes
 as it gets
 as it goes
@@ -723,11 +713,9 @@ as much
 as much as possible
 as much sinning as sinned against
 as near as matters
-as of
 as of late
 as of right
 as often as not
-as one does
 as one door closes, another opens
 as opposed to
 as per
@@ -760,14 +748,11 @@ as time goes by
 as times go
 as to
 as useful as a chocolate teapot
-as was
 as we know it
 as well
 as well as
 as white as a sheet
 as who should say
-as yet
-as you do
 as you go
 as you know
 as you like
@@ -955,7 +940,6 @@ at swordpoint
 at swords' points
 at table
 at ten and two
-at that
 at that time
 at the back of one's mind
 at the bank
@@ -1315,7 +1299,6 @@ be a lost cause
 be a man
 be a tall order
 be a thing of the past
-be about
 be aces with
 be alive with something
 be all in
@@ -1355,8 +1338,6 @@ be in the right place at the right time
 be in the same boat
 be in touch
 be into
-be it as it may
-be it so
 be kind, rewind
 be larger than life
 be left at the post
@@ -1376,18 +1357,14 @@ be of one's own making
 be of the essence
 be off the mark
 be off the wall
-be off with you
-be on
 be on a roll
 be on about
-be on at
 be on bad terms with somebody
 be on edge
 be on good terms with somebody
 be on guard
 be on hand
 be on hold
-be on one
 be on one's best behaviour
 be on one's guard
 be on the level
@@ -1436,11 +1413,9 @@ be thankful for small mercies
 be that as it may
 be the bigger man
 be the order of the day
-be there
 be there and be square
 be there or be square
 be up somebody's arse
-be with
 be-all and end-all
 beak off
 beam up
@@ -1529,7 +1504,6 @@ beauty won't boil the pot
 beauty won't make the pot boil
 beaver away
 because is why
-because one can
 because reasons
 because you touch yourself at night
 become of
@@ -2578,7 +2552,6 @@ but for the grace of God
 but good
 but me no buts
 but seriously folks
-but then
 but who's counting
 butch up
 butcher's bill
@@ -2828,8 +2801,6 @@ camp out
 camp out on
 can a duck
 can a duck swim
-can is can
-can it
 can of corn
 can of worms
 can we say
@@ -3024,7 +2995,6 @@ center part
 Centrelink time
 cerebrally challenged
 chacun a son gout
-chacun à son goût
 chain up
 chair up
 chalk against
@@ -3552,7 +3522,6 @@ come out with
 come over
 come right
 come round
-come stà
 come the acid
 come the old soldier
 come thick and fast
@@ -3745,10 +3714,8 @@ cough down
 cough out
 cough over
 cough up
-could do
 could go all day
 could have fooled me
-could have, would have, should have
 could hear a pin drop
 could I get the bill
 could not get elected dogcatcher
@@ -4353,7 +4320,6 @@ do fish swim
 do for
 do ill
 do in
-do it to it
 do it tough
 do it up
 do justice
@@ -4361,7 +4327,6 @@ do me a favour
 do me a lemon
 do not want
 do numbers
-do of
 do off
 do one's best
 do one's business
@@ -4400,11 +4365,8 @@ do up
 do want
 do well by doing good
 do well for oneself
-do what
-do what you will
 do with mirrors
 do without
-do you
 do you know what I'm saying
 do you know who I am
 do you mind
@@ -4818,7 +4780,6 @@ dying quail
 dyke out
 dyke up
 dynamite charge
-dónde está la biblioteca
 e pluribus unum
 E ticket
 each to his own
@@ -4941,7 +4902,6 @@ empty the tank
 empty vessels make the most noise
 empty vessels make the most sound
 empty words
-en arrière
 en croix
 en route
 en route to
@@ -4993,7 +4953,6 @@ et alibi
 et alii
 et alios
 et cetera
-et ceteræ
 et con
 et con.
 et conjunx
@@ -7198,7 +7157,6 @@ hack off
 hack up
 hackle up
 had better
-had ought
 hadaway and shite
 hadn't ought
 Haggis McBaggis
@@ -7489,7 +7447,6 @@ have had it up to here
 have had more than one's fair share of something
 have had one's chips
 have I got news for you
-have in
 have in mind
 have it all
 have it away
@@ -7514,7 +7471,6 @@ have no time for somebody
 have no time for something
 have none of something
 have off
-have on
 have one eye on somebody
 have one eye on something
 have one more time
@@ -7584,7 +7540,6 @@ have the wolf by the ear
 have the world by the tail
 have time on one's hands
 have time on one's side
-have to
 have truck with
 have up
 have Van Gogh's ear for music
@@ -8213,7 +8168,6 @@ I am inside you
 I am rubber, you are glue
 I am sorry
 I am twenty years old
-I am what I am
 I approve this message
 I ask you
 I before E, except after C
@@ -8229,7 +8183,6 @@ I could eat a brick
 I could eat a horse
 I dare be bound
 I declare
-I do
 I do declare
 I do not care
 I don't boil my cabbage twice
@@ -8288,7 +8241,6 @@ I want doesn't get
 I will yeah
 I wish
 I wish I may be shot
-I would
 I would rather die
 I'd like to see someone try
 I'd of
@@ -8363,13 +8315,8 @@ if anything
 if at all
 if at first you don't succeed
 if ever
-if ever there has been one
-if ever there was one
-if ever there were one
-if ever there were some
 if I ever saw one
 if I fits, I sits
-if I may
 if I may be so bold
 if I may make so bold
 if I might be so bold
@@ -8403,8 +8350,6 @@ if the cap fits
 if the cap fits, wear it
 if the shoe fits
 if the shoe fits, wear it
-if there ever was one
-if there ever were one
 if these walls could talk
 if you ask me
 if you don't mind me saying
@@ -8784,7 +8729,6 @@ in my opinion
 in name
 in nappies
 in neat
-in need
 in need of
 in no small measure
 in no small part
@@ -8797,7 +8741,6 @@ in no way, shape, or form
 in nothing flat
 in nubibus
 in office
-in on
 in one bite
 in one foul swoop
 in one go
@@ -8879,7 +8822,6 @@ in point of fact
 in pole position
 in poor taste
 in possession of
-in potentiâ
 in power
 in practice
 in prejudice of
@@ -9085,7 +9027,6 @@ in the hand
 in the hands of
 in the heat of
 in the heat of the moment
-in the here and now
 in the hole
 in the hope of
 in the hope that
@@ -9343,11 +9284,8 @@ ironing board
 irons in the fire
 irrespective of
 is a bear Catholic
-is it just me
-is it me
 is my middle name
 is someone cutting onions
-is that so
 is that the time
 is the bear Catholic
 is the Pope a Catholic
@@ -9368,7 +9306,6 @@ it does not matter
 it figures
 it happens
 it is and it isn't
-it is as it is
 it is darkest before the dawn
 it is how it is
 it is important to note that
@@ -9376,7 +9313,6 @@ it is no accident
 it is not even funny
 it is not every day
 it is not funny
-it is not just you
 it is said
 it is to laugh
 it is what it is
@@ -9586,7 +9522,6 @@ jure divino
 jury is out
 just a minute
 just a second
-just about
 just another pretty face
 just as well
 just deserts
@@ -9947,7 +9882,6 @@ Kung Hei Fat Choi
 kung pow penis
 L in the chat
 l'istesso tempo
-l'état, c'est moi
 lab rat
 labor of love
 labour of love
@@ -11603,7 +11537,6 @@ necker's knob
 necktie party
 need I say more
 need one's eyes checked
-need to
 needle drop
 needle in a haystack
 needle mover
@@ -11763,7 +11696,6 @@ no more Mister Nice Guy
 no more Mr Nice Guy
 no more Mr. Nice Guy
 no names, no pack drill
-no need
 no news is good news
 no notes
 no offence
@@ -12004,7 +11936,6 @@ nuke the fridge
 null and void
 nulla bona
 nulla poena sine lege
-nulla pœna sine lege
 numb out
 number games
 number one
@@ -12990,7 +12921,6 @@ or else
 or it didn't happen
 or should I say
 or something
-or what
 or words to that effect
 Orange Man bad
 orange wine
@@ -13286,7 +13216,6 @@ parcel out
 parcel up
 pardon me
 pardon my French
-pardonnez mon français
 pare down
 parentally challenged
 park and bark
@@ -13787,7 +13716,6 @@ plump for
 plump up
 plunge in
 plunge into
-plus ça change
 poach up
 poacher turned gamekeeper
 pobody's nerfect
@@ -13865,7 +13793,6 @@ pop up
 popcorn movie
 pope's nose
 popper up
-por qué no los dos
 porcelain god
 porcelain goddess
 porcelain skin
@@ -14395,7 +14322,6 @@ quantum tunnel
 quarrel out
 quarrel with
 que sera sera
-que será, será
 Queen Anne is dead
 Queen Anne's dead
 queen bee
@@ -14435,7 +14361,6 @@ quoad sacra
 quod erat demonstrandum
 quod google
 quoin up
-quot homines tot sententiæ
 quote unquote
 qwerty syndrome
 R. S. V. P.
@@ -15818,7 +15743,6 @@ shot in the dark
 shotgun approach
 shotgun wedding
 shots fired
-should on
 should see the other guy
 should've would've could've
 shoulda, coulda, woulda
@@ -17739,12 +17663,10 @@ that said
 that ship has already sailed
 that ship has sailed
 that train has left the station
-that was it
 that was then, this is now
 that was then; this is now
 that way
 that way madness lies
-that will do
 that'll be the day
 that'll be the frosty Friday
 that'll do
@@ -18058,7 +17980,6 @@ there are no stupid questions
 there for everyone to see
 there goes the neighborhood
 there goes the neighbourhood
-there is no "there" there
 there is no doubt that
 there is no free lunch
 there is no honor among thieves
@@ -18067,7 +17988,6 @@ there is no Planet B
 there is no replacement for displacement
 there is no spoon
 there is no telling
-there is no there there
 there is safety in numbers
 there is something in the water
 there is strength in numbers
@@ -18169,8 +18089,6 @@ third wheel
 thirteenth reason why
 this ain't it, chief
 this day six months
-this is it
-this is me
 this is not a drill
 this is someone
 this is the life
@@ -19240,7 +19158,6 @@ up the ying yang
 up the ying-yang
 up to anything
 up to eleven
-up to here
 up to no good
 up to one's ass in alligators
 up to one's chin
@@ -19360,7 +19277,6 @@ virtuous circle
 vision out
 visually impaired
 vive la difference
-vive la différence
 voice in the wilderness
 voices off
 vomit up
@@ -19551,7 +19467,6 @@ way of thinking
 way out of a paper bag
 we all bleed red
 we all make mistakes
-we are where we are
 we been knew
 we hardly knew ye
 we haven't got all day
@@ -19663,11 +19578,8 @@ what are you like
 what are you looking at
 what are you smoking
 what are you waiting for
-what can I do you for
 what can I say
 what can I tell you
-what can one do
-what can you do
 what cheer
 what color is your Bugatti
 what colour is your Bugatti
@@ -19684,7 +19596,6 @@ what do you want: blood?
 what does it all mean, Basil
 what else is new
 what foot the shoe is on
-what for
 what gives
 what go round come round
 what goes around comes around
@@ -19705,7 +19616,6 @@ what it is
 what it takes
 what next
 what o'clock is it
-what of it
 what price
 what say you
 what seems to be the problem
@@ -19736,7 +19646,6 @@ what time have you got
 what was someone smoking
 what was someone thinking
 what was your first clue
-what with
 what would Jesus do
 what's cooking
 what's doing
@@ -19870,7 +19779,6 @@ wherever you go, there you are
 whet one's appetite
 whether or not
 which foot the shoe is on
-which is which
 which way the wind is blowing
 whichever way one slices it
 while away
@@ -20011,7 +19919,6 @@ wild out
 wild-goose chase
 wile out
 wilful ignorance
-will on
 willing and able
 willing horse
 willow in the wind
@@ -20477,7 +20384,6 @@ you can't win them all
 you cannot please everyone
 you could have fooled me
 you couldn't make it up
-you do you
 you don't get owt for nowt
 you don't get something for nothing
 you don't know where it's been
@@ -20492,7 +20398,6 @@ you had to be there
 you happy jiu OK
 you haven't lived
 you hear what I'm saying
-you just had to
 you know it
 you know nothing, Jon Snow
 you know something
@@ -20607,5 +20512,3 @@ zoom in on
 zoom out
 zoot suit
 zoot up
-à deux
-éminence grise
