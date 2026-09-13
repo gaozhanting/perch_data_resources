@@ -2312,6 +2312,7 @@ bring to an end
 bring to bear
 bring to heel
 bring to justice
+bring to life
 bring to light
 bring to nought
 bring to the hammer
@@ -3480,6 +3481,7 @@ come and go
 come apart
 come apart at the seams
 come around
+come as a surprise
 come at
 come away
 come back
@@ -3518,9 +3520,13 @@ come in handy
 come in hot
 come into
 come into being
+come into effect
+come into force
 come into its own
 come into one's own
+come into play
 come into the world
+come into view
 come knocking
 come of
 come of age
@@ -3553,11 +3559,13 @@ come thick and fast
 come through
 come to
 come to a close
+come to a halt
 come to a head
 come to a sticky end
 come to an end
 come to blows
 come to find out
+come to fruition
 come to grief
 come to grips with
 come to Jesus
@@ -3576,11 +3584,14 @@ come to someone's aid
 come to someone's rescue
 come to terms
 come to terms with
+come to the fore
 come to think of it
 come to time
 come together
 come true
 come under
+come under fire
+come under pressure
 come unhinged
 come unstuck
 come up
@@ -6287,10 +6298,13 @@ get even or get even worse
 get fresh
 get grey hair from
 get high
+get hold of
 get in
 get in on
 get in the boat and row
 get in the way
+get in touch
+get in trouble
 get in with
 get ink
 get into
@@ -6426,11 +6440,15 @@ get the chop
 get the door
 get the drawers
 get the drift
+get the feeling
 get the goods on
 get the green light
 get the hang of
+get the idea
+get the impression
 get the lead out
 get the memo
+get the message
 get the nod
 get the noggin joggin'
 get the point
@@ -6510,8 +6528,10 @@ give a hoot
 give a light
 give a man a fish
 give a monkey's
+give a nod
 give a rat's arse
 give a rip
+give a shit
 give a sneck posset
 give about
 give against
@@ -6557,6 +6577,7 @@ give or take
 give out
 give over
 give pause
+give rise to
 give somebody a hard time
 give somebody the benefit of the doubt
 give somebody the green light
@@ -6613,6 +6634,7 @@ give the sack
 give the time of day
 give up
 give up the ghost
+give way
 give weight
 give what for
 give your head a wobble
@@ -6770,6 +6792,7 @@ go off the boil
 go on
 go on by
 go on one's merry way
+go on sale
 go on the mitch
 go on the scout
 go on then
@@ -6835,6 +6858,7 @@ go to the wall
 go to the well
 go to town
 go to town on
+go to war
 go to work
 go together
 go too far
@@ -7382,7 +7406,9 @@ have a bite
 have a blast
 have a blessed one
 have a bone to pick
+have a break
 have a brick in one's hat
+have a clue
 have a fable for
 have a fine finger
 have a finger in
@@ -7402,6 +7428,7 @@ have a head for
 have a heart
 have a jag on
 have a laugh
+have a look
 have a mind of one's own
 have a moment
 have a mountain to climb
@@ -7409,18 +7436,24 @@ have a nice day
 have a nice life
 have a night of it
 have a pair
+have a point
 have a poor time of it
 have a quiet word
 have a rough time of it
+have a row
 have a say
 have a seat
+have a shot
 have a snootful
 have a stab
+have a stroke
 have a tantrum
 have a thin time of it
+have a thing for
 have a tiger by the tail
 have a time
 have a time of it
+have a track record
 have a way with
 have a whale of a time
 have a word
@@ -7428,6 +7461,7 @@ have a word in someone's ear
 have a word with oneself
 have against
 have an accident
+have an affair
 have an easy time of it
 have an eye for
 have another thing coming
@@ -7541,6 +7575,7 @@ have the floor
 have the hots for
 have the last laugh
 have the law of
+have the pleasure of
 have the right time
 have the tiger by the tail
 have the time of one's life
@@ -7860,6 +7895,7 @@ hold it together
 hold my beer
 hold my milk
 hold off
+hold office
 hold on
 hold on to your hat
 hold one's alcohol
@@ -7888,6 +7924,7 @@ hold someone's hand
 hold something in check
 hold sway
 hold tack
+hold talks
 hold that thought
 hold the cards
 hold the floor
@@ -10865,14 +10902,19 @@ make a career of
 make a case
 make a case for
 make a clean breast
+make a comeback
 make a day of it
 make a difference
+make a face
 make a fist of
+make a fool of
+make a fuss
 make a go of
 make a grab
 make a killing
 make a leg
 make a light
+make a living
 make a meal of
 make a mess of something
 make a mockery of
@@ -10886,11 +10928,13 @@ make a pig's ear of
 make a point
 make a poor fist of
 make a rabbit bite a bulldog
+make a return
 make a run for it
 make a scene
 make a show of oneself
 make a spectacle of oneself
 make a splash
+make a start
 make a statement
 make a Virginia fence
 make a virtue of necessity
@@ -10918,8 +10962,10 @@ make do and mend
 make down
 make ends meet
 make every effort
+make eye contact
 make faces
 make for
+make friends
 make from scratch
 make fun of
 make game of
@@ -10996,14 +11042,20 @@ make someone's teeth itch
 make something of oneself
 make sport of
 make strange
+make strides
 make the bald man cry
 make the best of
 make the best of one's way
 make the best of something
+make the call
+make the case for
 make the cut
+make the difference
 make the grade
 make the headlines
 make the most of
+make the move
+make the point
 make the running
 make the weather
 make the welkin ring
@@ -11021,6 +11073,7 @@ make up one's mind
 make up the numbers
 make up to
 make waves
+make way
 make with
 make yourself at home
 makes you think
@@ -13339,6 +13392,7 @@ pay the rent
 pay through the nose
 pay to play
 pay towards
+pay tribute to
 pay up
 pea patch
 pea-time is past
@@ -14162,6 +14216,7 @@ put ahead
 put an end to
 put around
 put aside
+put at risk
 put away
 put back
 put batteries in someone's back
@@ -14184,7 +14239,9 @@ put forward
 put hair on someone's chest
 put her there
 put in
+put in a position
 put in mind
+put in place
 put in pledge
 put in the ground
 put in with
@@ -14204,6 +14261,7 @@ put on a clinic
 put on a pedestal
 put on airs
 put on frills
+put on hold
 put on one's dancing shoes
 put on the dog
 put on the long finger
@@ -14307,6 +14365,7 @@ put to work
 put together
 put two and two together
 put under
+put under pressure
 put up
 put up a brick
 put up on
@@ -14425,20 +14484,26 @@ rain stopped play
 rainbow baby
 rainbows and unicorns
 rainy day
+raise awareness
 raise Cain
+raise concerns
 raise eyebrows
+raise funds
 raise hell
 raise its head
 raise its ugly head
+raise money
 raise one's eyebrows
 raise one's game
 raise one's voice
+raise questions
 raise someone's hackles
 raise someone's shag
 raise someone's spirits
 raise the ante
 raise the bar
 raise the line
+raise the possibility
 raise the roof
 raise the spectre
 raise the stakes
@@ -17266,23 +17331,31 @@ take a turn for the worse
 take a walk
 take a walkout powder
 take a whack at
+take a while
 take a wife
 take a wrong turn at Albuquerque
 take aback
+take account of
 take across
+take advantage of
 take after
 take against
+take ages
 take aim
 take air
 take an axe to
+take an interest in
 take apart
 take away
 take away from
 take back
 take bread and salt
 take by storm
+take by surprise
 take care of business
 take care of yourself
+take centre stage
+take charge
 take check
 take cover
 take credit
@@ -17290,7 +17363,9 @@ take delight in
 take down
 take down a notch
 take down a peg
+take drugs
 take easy
+take effect
 take fire
 take flight
 take for
@@ -17303,6 +17378,7 @@ take from behind
 take great pains
 take guard
 take heed
+take hold
 take huff
 take ill
 take in
@@ -17327,11 +17403,15 @@ take leave of one's senses
 take liberties
 take lightly
 take matters into one's own hands
+take measures
 take no for an answer
 take no notice of
 take no prisoners
+take note of
+take notice
 take occasion
 take off
+take offence
 take on
 take on faith
 take on the chin
@@ -17358,10 +17438,15 @@ take out of context
 take out the trash
 take over
 take part
+take place
+take precedence
 take pride
 take refuge
+take responsibility
+take risks
 take roll
 take several seats
+take shape
 take sides
 take silk
 take soil
@@ -17384,6 +17469,7 @@ take something as read
 take something in one's stride
 take something in stride
 take something with a pinch of salt
+take steps
 take stock
 take the biscuit
 take the bitter with the sweet
@@ -17423,6 +17509,7 @@ take time by the forelock
 take time off
 take time out
 take to
+take to court
 take to heart
 take to one's heels
 take to task
@@ -17430,6 +17517,8 @@ take to the bank
 take to the cleaners
 take to the grave
 take to the hills
+take to the stage
+take turns
 take under
 take up
 take up a collection
