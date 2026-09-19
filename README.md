@@ -1,7 +1,21 @@
 # perch_data_resources
 
 
-en_50k_words_only.txt
+en_vocab_ranked.txt  ← 現行使用
+排序：hermitdave / OpenSubtitles 字幕頻率，與 en_50k 相同（排序不動）
+成員：與 wordfreq、SUBTLEX、enwiki 各前 10 萬名比對，需得 2 票以上
+      且需在 ECDict 有條目
+      含連字號者只要求 ECDict（各語料對連字號分詞不一致，票數是雜訊）
+      前 5000 名無條件保留（保護 mr./uh-huh/nothin 這類會被成員判準誤濾的字）
+產出腳本：youtube_g_caption/scripts/build_vocab_list.py
+72,325 詞，涵蓋 99.44% running text（與 en_50k 相同涵蓋率，但全為真詞彙）
+
+為何要用它取代 en_50k：hermitdave 前 5 萬名裡約 9% 是專有名詞與分詞碎片
+（Teemu、MacGyver、didn、chffffff 這類）。它們佔走名次，把使用者其實認識的
+真詞擠到 cutoff 之外，反倒被標成生詞。新清單把那些位置還給真詞。
+
+
+en_50k_words_only.txt  ← 已由 en_vocab_ranked.txt 取代，保留備查
 來源：https://github.com/hermitdave/FrequencyWords
 
 去掉了後面的 詞頻數字
